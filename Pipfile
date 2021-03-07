@@ -1,0 +1,13 @@
+[[source]]
+name = "linebot"
+url = "https://linebot.org/simple"
+verify_ssl = true
+
+[dev-packages]
+
+[packages]
+flask="*"
+line-bot-sdk = "*"
+
+[requires]
+python_version = "3.7"
